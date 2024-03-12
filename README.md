@@ -1,4 +1,4 @@
-# Project 3 - *Trivia appe*
+# Project 3 - *Trivia app*
 
 Submitted by: **Rahima Khabibullaeva**
 
